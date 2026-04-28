@@ -1,0 +1,14 @@
+{
+  "reports": [
+    {
+      "report_id": 1,
+      "date": "2026-04-20",
+      "report_type": "Auto Detect (Recommended)",
+      "raw_text": "MRI KNEE REPORT (Extracted)\nPatient: Yash Rajdeo\nAge/Sex: 21 / Male\nFindings:\n- Anterior cruciate ligament shows Grade III tear with edema and fiber discontinuity.\n- Posterior cruciate ligament appears mildly buckled.\n- Complex tear in medial meniscus with bucket handle tear indication.\n- Mild to moderate joint effusion with myofascitis.\n- Low-grade interstitial tear in medial patellar retinaculum (MPFL).\n- Mild prepatellar bursitis.\n- Other knee structures appear normal.\nImpression:\n- Grade III ACL tear\n- Complex medial meniscus tear (bucket handle)\n- Joint effusion\n- MPFL tear\nRecommendation:\nPlease correlate clinically and consult orthopedic specialist.",
+      "analysis": "\ud83d\udd0d REPORT TYPE: Orthopedic MRI Report\n\n1\ufe0f\u20e3 HIGH/ABNORMAL VALUES \ud83d\udd3a\n- Anterior cruciate ligament | Grade III tear | Normal: Intact | Possible cause: Trauma, injury | Precaution: Avoid weight-bearing activities\n- Posterior cruciate ligament | Mildly buckled | Normal: Straight | Possible cause: Mild injury, strain | Precaution: Rest and ice\n- Medial meniscus | Complex tear (bucket handle) | Normal: Intact | Possible cause: Trauma, injury | Precaution: Avoid twisting and bending\n- Joint effusion | Mild to moderate | Normal: Minimal | Possible cause: Injury, inflammation | Precaution: Rest and elevate\n- Medial patellar retinaculum (MPFL) | Low-grade interstitial tear | Normal: Intact | Possible cause: Trauma, injury | Precaution: Avoid weight-bearing activities\n- Prepatellar bursitis | Mild | Normal: Absent | Possible cause: Friction, pressure | Precaution: Wear proper padding\n\n2\ufe0f\u20e3 LOW VALUES \ud83d\udd3b\n- None\n\n3\ufe0f\u20e3 NORMAL VALUES \u2705\n- Other knee structures appear normal\n\n4\ufe0f\u20e3 KEY FINDINGS\n- Grade III ACL tear\n- Complex medial meniscus tear (bucket handle)\n- Joint effusion\n- MPFL tear\n\n5\ufe0f\u20e3 LIFESTYLE TIPS\n- Diet: Balanced and nutritious\n- Hydration: Adequate\n- Sleep: 7-8 hours\n- Exercise: Avoid high-impact activities, focus on low-impact exercises\n\n6\ufe0f\u20e3 SEE A DOCTOR\n- Specialist: Orthopedic specialist\n- Urgency: High\n\n7\ufe0f\u20e3 RISK LEVEL: \ud83d\udd34 High",
+      "risk_score": 25,
+      "risk_level": "Moderate Risk \ud83d\udfe1",
+      "language": "English"
+    }
+  ]
+}
